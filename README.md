@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hibernate E-Commerce Store
 
 A robust, console-based e-commerce management system built with **Java** and **Hibernate ORM**. This project was developed to demonstrate enterprise-level backend architecture, focusing on secure transactions, data persistence, and clean code principles.
