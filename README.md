@@ -37,4 +37,3 @@ The project strictly adheres to the **MVC (Model-View-Controller)** and **DAO (D
 =======
 # Hibernate-Store-E-Commerce-Engine
 E-commerce backend engine built with Java and Hibernate ORM. Includes ACID transactions, RBAC, and secure session management.
->>>>>>> c64a673df650c096c84fc5feeb05e0f1b7340fae
