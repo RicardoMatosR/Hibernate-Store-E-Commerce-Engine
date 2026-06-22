@@ -2,7 +2,7 @@
 
 A robust backend management system developed in Java that utilizes Hibernate ORM for data persistence. This project implements an enterprise-level architecture, focusing on transactional integrity, role-based security, and efficient database session management.
 
-## 🚀 Key Features
+##  Key Features
 
 *   **RBAC (Role-Based Access Control)**: Authentication system with differentiated dashboards for Admin and Customer profiles.
 *   **Atomic Transactions (ACID)**: Bulletproof purchasing logic: if anything fails during the checkout process (e.g., out of stock or insufficient funds), the database automatically reverts any changes (Rollback).
@@ -11,7 +11,7 @@ A robust backend management system developed in Java that utilizes Hibernate ORM
 *   **Secure Session Management**: Implementation of `try-with-resources` to guarantee connection closures and prevent memory leaks.
 *   **Automated Seeding**: Smart initialization of default roles and a "Super Admin" account upon system boot if the database is empty.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 *   **Language**: Java (JDK 17+)
 *   **ORM**: Hibernate 7
