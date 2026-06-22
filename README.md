@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hibernate E-Commerce Store
 
 A robust, console-based e-commerce management system built with **Java** and **Hibernate ORM**. This project was developed to demonstrate enterprise-level backend architecture, focusing on secure transactions, data persistence, and clean code principles.
@@ -34,3 +35,7 @@ The project strictly adheres to the **MVC (Model-View-Controller)** and **DAO (D
 2. Ensure you have a local MySQL server running.
 3. Configure your database credentials in `hibernate.cfg.xml`.
 4. Compile and run `Main.java`. The application will automatically create the necessary tables and seed the initial `Admin` user (`admin@ces.com` / `admin123`).
+=======
+# Hibernate-Store-E-Commerce-Engine
+E-commerce backend engine built with Java and Hibernate ORM. Includes ACID transactions, RBAC, and secure session management.
+>>>>>>> c64a673df650c096c84fc5feeb05e0f1b7340fae
